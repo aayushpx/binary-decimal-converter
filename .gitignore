@@ -1,0 +1,9 @@
+# build output
+converter
+*.out
+
+# clangd / tooling
+compile_commands.json
+
+# OS junk
+.DS_Store
