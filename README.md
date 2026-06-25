@@ -40,8 +40,8 @@ Converting decimal to binary. The result is 0000 1000
 
 Built as part of early computer science studies to practice:
 
-Number systems
-String parsing
-Function design
-Input validation
-Modular C++ structure
+- Number systems
+- String parsing
+- Function design
+- Input validation
+- Modular C++ structure
